@@ -17,7 +17,7 @@ And followed by its connection to other routers using "id" and followed by the "
 The default cost of a connection is 1, if you aren't specified.
 In the above case, the cost from router0 to router1 is 4.
 
- we assume the connection can be one way, of course, you can modify the content in infile.dat to force mutual-connection.
+We set the connection between each router to be one way, of course, you can modify the content in infile.dat to force mutual-connection.
  
- Feb, 2017
- Po-Hsun Chen
+Feb, 2017
+Po-Hsun Chen
